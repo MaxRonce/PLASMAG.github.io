@@ -1,5 +1,8 @@
 
-# PLASMAG 
+# PLASMAG
+
+![PLASMAG_logo_v1](https://github.com/MaxRonce/PLASMAG.github.io/assets/65395264/9d09cc36-ad04-43f6-9681-4bd1bf0a1be2)
+
 **(Python Library for Accurate Space Magnetometer Adjustments with Genetics)**
 
 PLASMAG is a simulation software specifically designed for 
